@@ -2,9 +2,9 @@
 <html lang="en">
    <head>
       <meta charset="utf-8">
-      <title>Generic Research Lab Template - Home</title>
+      <title>Rf-Connect Lab, NDSU - Home</title>
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <meta name="description" content="Research Lab, Home, Velit Aliquet Sagittis University">
+      <meta name="description" content="Research Lab, Home, North Dakota State University">
       <meta name="author" content="">
       <!-- Le styles -->
       <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -23,14 +23,13 @@
                   <div class="container">
                      <ul class="nav">
                         <li class="active"><a href="#">Home</a></li>
-                        <!-- <li><a href="people.html">People</a></li>
-                        <li><a href="research.html">Research</a></li>
+                        <li><a href="people.html">People</a></li>
+                        <!-- <li><a href="research.html">Research</a></li>
                         <li><a href="publications.html">Publications</a></li>
                         <li><a href="gallery.html">Gallery</a></li>
                         <li><a href="news.html">News</a></li>
                         <li><a href="teaching.html">Teaching</a></li>
                         <li><a href="contact.html">Contact</a></li> -->
-                        <li><a href="#">People</a></li>
                         <li><a href="#">Research</a></li>
                         <li><a href="#">Publications</a></li>
                         <li><a href="#">Gallery</a></li>
