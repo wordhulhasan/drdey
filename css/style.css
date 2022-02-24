@@ -1,0 +1,12 @@
+#mission {
+    text-align: justify;
+    text-justify: inter-word;
+    font-family: "Lucida Console","Courier New", monospace;
+  }
+
+#people {
+    text-align: justify;
+    text-justify: inter-word;
+    font-family: FreeMono, monospace;
+    /* letter-spacing: 2px; */
+  }
