@@ -1,12 +1,13 @@
 #mission {
     text-align: justify;
     text-justify: inter-word;
-    font-family: "Lucida Console","Courier New", monospace;
+    font-family: Calibri, sans-serif;
+    font-size: large;
   }
 
 #people {
     text-align: justify;
     text-justify: inter-word;
-    font-family: FreeMono, monospace;
+    font-family: Calibri, sans-serif;
     /* letter-spacing: 2px; */
   }
